@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.2d30f555.chunk.css",
-  "main.js": "/static/js/main.4ef5e139.chunk.js",
-  "main.js.map": "/static/js/main.4ef5e139.chunk.js.map",
-  "static/js/1.6eb6405c.chunk.js": "/static/js/1.6eb6405c.chunk.js",
-  "static/js/1.6eb6405c.chunk.js.map": "/static/js/1.6eb6405c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.2d30f555.chunk.css.map": "/static/css/main.2d30f555.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.70e04f2e1f9c1ffecf8a6af66ef2913d.js": "/precache-manifest.70e04f2e1f9c1ffecf8a6af66ef2913d.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/mariollamaslanza/static/css/main.2d30f555.chunk.css",
+  "main.js": "/mariollamaslanza/static/js/main.a4a86a51.chunk.js",
+  "main.js.map": "/mariollamaslanza/static/js/main.a4a86a51.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/mariollamaslanza/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/mariollamaslanza/static/js/1.6eb6405c.chunk.js.map",
+  "runtime~main.js": "/mariollamaslanza/static/js/runtime~main.812c8916.js",
+  "runtime~main.js.map": "/mariollamaslanza/static/js/runtime~main.812c8916.js.map",
+  "static/css/main.2d30f555.chunk.css.map": "/mariollamaslanza/static/css/main.2d30f555.chunk.css.map",
+  "index.html": "/mariollamaslanza/index.html",
+  "precache-manifest.8d31a98af4666c45dbcdbe2b88eb5ffe.js": "/mariollamaslanza/precache-manifest.8d31a98af4666c45dbcdbe2b88eb5ffe.js",
+  "service-worker.js": "/mariollamaslanza/service-worker.js"
 }
